@@ -8,6 +8,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka
 
-spring:
-  application:
-    name: CONFIG-SERVER-NAME
+
